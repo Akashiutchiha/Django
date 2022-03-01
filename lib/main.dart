@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: (AppBar(
-        title: Text("Health Map"),
+        title: Text("HealthMap"),
         leading: IconButton(
           icon: Icon(Icons.menu),
           onPressed: () {},
